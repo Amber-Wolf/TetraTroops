@@ -1,0 +1,328 @@
+GENERAL  - ARES 
+VS ARES  
+VICTORY I FOUGHT VALIANTLY!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING FINALLY, A WORTHY OPPONENT!
+LOSS THAT WAS A GOOD FIGHT!
+VS ATHENA
+VICTORY I SHALL NOT LET YOU BRING ME DOWN, ATHENA!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING ATTACK HARDER! WE CAN'T LET HER WIN!
+LOSS NO! HOW CAN THIS BE?!
+VS HADES
+VICTORY I ALREADY KILLED YOUR ARMY ONCE, I’LL JUST DO IT AGAIN!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING ATTACK HARDER! THERE'S NO WAY WE'RE LOSING TO CORPSES!
+LOSS WEAKLINGS! WHAT IDIOT LOSES TO A DEAD MAN?!
+VS HERA
+VICTORY NO MERCY, NOT EVEN FOR THE WOMEN!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING PUSH HER BACK!
+LOSS INCONCIEVABLE!
+VS MARONTIS
+VICTORY DESTROY HIM! CLEAVE HIM IN TWO!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING DON'T FALTER, HE IS DIRT BENEATH OUR FEET!
+LOSS CONGRATULATIONS, YOU GOT BEATEN BY A PILE OF RUBBLE!
+VS POSIEDON
+VICTORY BURN HIM UNTIL THE LAST DROP IS GONE!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING KEEP ATTACKING! WE CAN STILL WIN!
+LOSS NO, NOT THE KRAKEN!
+VS STYX
+VICTORY DAM THE RIVER! DESTROY HER!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING ARE YOU GONNA LET SOME STREAM ROUTE OUR DEFENSES?
+LOSS THAT BATTLE SHOULD HAVE BEEN EASY!
+VS ZUES
+VICTORY YOU'VE MET YOUR MATCH, ZEUS! I’LL DESTROY YOU!
+WINNING ATTACK! BRING THEM DOWN!
+LOSING SOME LIGHTSHOW WON'T STOP ME!
+LOSS YOU HAD ONE JOB!
+GENERAL  - ATHENA
+VS ARES  
+VICTORY You are like a wild boar, running blind into battle. Come stick yourself on my spear.
+WINNING The better prepared will always win.
+LOSING Minor miscalculation on enemy aggression. Increase defenses.
+LOSS One miscalculation can cost us the entire match.
+VS ATHENA
+VICTORY Checkmate.
+WINNING The better prepared will always win.
+LOSING You have a slight advantage, but it's not over yet!
+LOSS Well played.
+VS HADES
+VICTORY Such a longing for power. Like your brothers, you shall fall.
+WINNING The better prepared will always win.
+LOSING His forces are too many, increase defenses!
+LOSS I should have accounted for your great luck.
+VS HERA
+VICTORY Your consuming jealously and volatile temperament will now drive you to ruin, Hera.
+WINNING The better prepared will always win.
+LOSING Conserve our forces, strike only with advantage!
+LOSS Hades hath no fury like a jealous wench.
+VS MARONTIS
+VICTORY You are overconfident and overzealous. Victory is a simple matter.
+WINNING The better prepared will always win.
+LOSING If the very ground rises up to meet us we should grab a shovel.
+LOSS The battlefield itself was against us…
+VS POSIEDON
+VICTORY Drain the waters and you’re simply a fish on dry land.
+WINNING The better prepared will always win.
+LOSING The water is rising. Grab a bucket!
+LOSS Never attack Poseidon at high tide.
+VS STYX
+VICTORY How to beat a river? Just build a bridge.
+WINNING The better prepared will always win.
+LOSING She's advancing! Route her forces.
+LOSS After sending so many down your river, I go down myself.
+VS ZUES
+VICTORY You are strong, but prideful. By being careful and playing my moves right, I’ll emerge victorious.
+WINNING The better prepared will always win.
+LOSING His assault is strong
+LOSS I should have built a lightning rod.
+GENERAL  - HADES
+VS ARES  
+VICTORY I’ve had many bloodthirsty fools enter my domain before. You’ll just be one more.
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS ATHENA
+VICTORY I have the entire underworld at my command, Athena. Even you can’t defeat me.
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS HADES
+VICTORY
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS HERA
+VICTORY Hera, please come in, stay a while.
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS MARONTIS
+VICTORY You couldn’t even take the underworld from me, no way I’ll let you win this!
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS POSIEDON
+VICTORY Don’t worry, dear brother, I’ll give you a watery grave!
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS STYX
+VICTORY You always deliver the best to me, Styx. Now you’ve brought yourself!
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+VS ZUES
+VICTORY You’ve ruled on high for so long, brother. I think it’s time you come visit me.
+WINNING Welcome to the underworld. Have a pomegranate.
+LOSING Keep attacking, my forces are endless.
+LOSS Now it seems I join my men in the ranks of the dead.
+GENERAL  - HERA
+VS ARES  
+VICTORY The voice of a lady tamed the wild beast. Now, let me put you down!
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Perhaps I could serve as your queen.
+VS ATHENA
+VICTORY My dear Athena, bruised and battered is so your style.
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Well at least I look fabulous.
+VS HADES
+VICTORY Death is so ugly. Definitely not my thing.
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Perhaps I could serve as your queen.
+VS HERA
+VICTORY Truly a match to be remembered.
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Well at least I look fabulous.
+VS MARONTIS
+VICTORY You know, there’s a reason they call it *mother* earth.
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Perhaps I could serve as your queen.
+VS POSIEDON
+VICTORY The sea is quite the beauty… but not so beautiful as me!
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Perhaps I could serve as your queen.
+VS STYX
+VICTORY We would work well together, but I won’t hesitate to strike you down!
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Well at least I look fabulous.
+VS ZUES
+VICTORY Zeus, as stupid and pig-like as ever, I see.
+WINNING Never underestimate the power of a woman.
+LOSING Band together my maidens, they shall not topple us!
+LOSS Perhaps I could serve as your queen.
+GENERAL  - MARONTIS
+VS ARES  
+VICTORY Charge wildly into battle… Right off a cliff!
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS ATHENA
+VICTORY There is no strategy to defeat the land itself!
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS HADES
+VICTORY Now I’ll take the power which you held from me so long ago!
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS HERA
+VICTORY You are beautiful, Hera. I’ll just swallow you up!
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS MARONTIS
+VICTORY
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS POSIEDON
+VICTORY I shall dam your waters up and leave you dry!
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS STYX
+VICTORY Now to gain my rightful power, I will destroy you!
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+VS ZUES
+VICTORY Electricity? It’s not very effective…
+WINNING My domain is ever-growing and never-faltering.
+LOSING Trying to destroy me is like attacking a mountain!
+LOSS I can't believe this happened!
+GENERAL  - POSEIDON
+VS ARES  
+VICTORY …I’ll Sink your… battleship…
+WINNING ………
+LOSING ………
+LOSS …Ares…
+VS ATHENA
+VICTORY …can’t stop… the ocean…
+WINNING ………
+LOSING ………
+LOSS …Athena…
+VS HADES
+VICTORY …sink…drown…
+WINNING ………
+LOSING ………
+LOSS …brother…
+VS HERA
+VICTORY …all wet…
+WINNING ………
+LOSING ………
+LOSS …Hera…
+VS MARONTIS
+VICTORY …land…swallowed by…the ocean…
+WINNING ………
+LOSING ………
+LOSS …Marontis…
+VS POSIEDON
+VICTORY …impressive…
+WINNING ………
+LOSING ………
+LOSS …masochist…
+VS STYX
+VICTORY …rivers to ocean…gives me strength…
+WINNING ……… 
+LOSING ………
+LOSS …Styx…
+VS ZUES
+VICTORY …short-circuit…
+WINNING ………
+LOSING ………
+LOSS …brother…
+GENERAL  - STYX
+VS ARES  
+VICTORY You have sent many down my river, now it is time for you to go yourself!
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS ATHENA
+VICTORY The river refuses your logic, it shall flow freely where it pleases!
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS HADES
+VICTORY I shall send you home along the river.
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS HERA
+VICTORY Goddess of women you may be, but I shall take you down!
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS MARONTIS
+VICTORY Rivers cut through even the roughest land, and so I shall cut through you!
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS POSIEDON
+VICTORY My river will prove victorious over your ocean!
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS STYX
+VICTORY The river will never be stopped.
+WINNING The river will wash you away! 
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+VS ZUES
+VICTORY I was proud to support you, but now it's time to destroy you!
+WINNING The river will wash you away!
+LOSING You'll never stop the River Styx!
+LOSS You've dammed up the river…
+GENERAL  - ZEUS
+VS ARES  
+VICTORY You charge in, I’ll run a charge through you!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS ATHENA
+VICTORY Athena, you know you’re attracted to my magnetic personality!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS HADES
+VICTORY Hades, you’re so negative you positive-ly attract my lightning!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS HERA
+VICTORY Hera, I really think there’s a spark between us!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS MARONTIS
+VICTORY Scorched earth, coming right up!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS POSIEDON
+VICTORY Electricity against water? It’s super effective!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS STYX
+VICTORY I’ll run a current through your river!
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS I'm feeling drained…
+VS ZUES
+VICTORY At least you're a sexy beast. 
+WINNING I’m all charged up!
+LOSING They're grounding the charge!
+LOSS There's so much animal magnetism here, I got overloaded.
