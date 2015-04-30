@@ -1,4 +1,0 @@
-http://stackoverflow.com/questions/2035897/opengl-texture-loading
-
-http://www.jayway.com/2010/12/30/opengl-es-tutorial-for-android-part-vi-textures/
-
